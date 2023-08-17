@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Streak](https://streak-stats.demolab.com?user=zhongwcool&locale=zh_Hans)
+
 <!--
 **zhongwcool/zhongwcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
